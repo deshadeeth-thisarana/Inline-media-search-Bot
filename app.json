@@ -14,7 +14,7 @@
       "inline"
     ],
     "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA",
-    "repository": "https://github.com/Naviya2/LeoMediaSearchBot",
+    "repository": "https://github.com/deshadeeth-thisarana/Inline-media-search-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
